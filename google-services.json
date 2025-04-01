@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "31254003447",
+    "project_id": "basepasteles",
+    "storage_bucket": "basepasteles.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:31254003447:android:0f3f53e1147f1564d71df2",
+        "android_client_info": {
+          "package_name": "com.pastelisimo.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaAmlJ7z3kcc5WqZYnVqilBbrAKgKCH_o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

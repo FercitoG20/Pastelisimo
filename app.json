@@ -1,0 +1,42 @@
+{
+  "expo": {
+    "name": "login",
+    "slug": "login",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/pastelito.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/pastelito.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#f5ce6e"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.pastelisimo.app"
+    },
+    "android": {
+      "package": "com.pastelisimo.app",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/pastelito.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/pastelito.png",
+      "build": {
+        "babel": {
+          "include": [
+            "@react-native-firebase/*"
+          ]
+        }
+      }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "d479f1bc-e194-4b5b-a8c4-ce05575e6786"
+      }
+    }
+  }
+}
